@@ -1,6 +1,6 @@
 # [Drag-And-Drop](https://garrettyoung510.github.io/Drag-And-Drop/)
 
-![Live Preview](https://media.giphy.com/media/L4BfL28rO61b5F5VWO/giphy.gif)
+![Live Preview](https://media.giphy.com/media/IhUKGV2g1yk4VkiyIR/giphy.gif)
 
 ## Reasoning/Motivation
 
